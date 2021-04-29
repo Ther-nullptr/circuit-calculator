@@ -4,9 +4,9 @@
 ### settings.py
 设置电路的基本参数。
 ### circuitCalculator1.py
-利用`scipy`中的`odeint`模块，可以求解微分方程的数值解；利用`matplotlib`模块，可以对函数图像进行绘制
+利用`scipy`中的`odeint`模块，可以求解微分方程的数值解；利用`matplotlib`模块，可以对函数图像进行绘制。
 ### circuitCalculator2.py
-利用`sympy`模块，可以求解电路微分方程的解析解
+利用`sympy`模块，可以求解电路微分方程的解析解。
 ## 功能
 * 丰富的电源设置(恒压源、恒流源、正弦源、方波元)
 * 丰富的条件设置(可以设置电容电压初值、电感电流初值)
